@@ -1,0 +1,1 @@
+(compile 'clojure.examples.hello)
